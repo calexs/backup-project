@@ -114,3 +114,10 @@
         
 ---
 ## Contributors
+<p align="center">
+    <a href="https://github.com/calexs/backup-project/graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=calexs/backup-project" />
+    </a>
+    <br>
+    <a href="https://github.com/calexs">calexs</a>
+</p>
