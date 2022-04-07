@@ -121,3 +121,6 @@
     <br>
     <a href="https://github.com/calexs">calexs</a>
 </p>
+
+## LICENSE
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
