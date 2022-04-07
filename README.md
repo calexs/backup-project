@@ -112,6 +112,5 @@
         
         Access *[https://github.com/user_name/repository_name](https://github.com/user_name/repository_name)*
         
-- You can access these steps in this Git repository:
-    
-    [https://github.com/calexs/backup-project](https://github.com/calexs/backup-project)
+---
+## Contributors
